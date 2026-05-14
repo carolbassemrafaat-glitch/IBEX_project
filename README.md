@@ -49,17 +49,6 @@ The project follows a layered structure:
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of the application here to showcase UI and features.
-
-Example:
-- Login screen  
-- Home dashboard  
-- Inventory module  
-- Navigation drawer  
-
----
 
 ## 🎯 Purpose of the Project
 
